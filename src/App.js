@@ -8,7 +8,7 @@ function App() {
       <h1>Welcome to Adsgram Integration</h1>
       <ShowAdButton />
       {/* Replace with the actual blockId of your ad */}
-      <AdsgramAd blockId="int-7399" />
+      <AdsgramAd blockId="int-7418" />
     </div>
   );
 }

@@ -14,7 +14,7 @@ export function ShowAdButton() {
   }, []);
 
   // Replace with your Adsgram block ID
-  const blockId = 'int-7399';  // Update this with your actual Adsgram Block ID
+  const blockId = 'int-7418';  // Update this with your actual Adsgram Block ID
   
   // Get the functions to show the ad and request user consent
   const { showAd, showModal, handleUserConsent } = useAdsgram({ blockId, onReward, onError });
