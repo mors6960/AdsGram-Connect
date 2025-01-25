@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AdsGram-Connect/static/css/main.3f4d0ec8.css",
+    "main.js": "/AdsGram-Connect/static/js/main.13294156.js",
+    "index.html": "/AdsGram-Connect/index.html",
+    "main.3f4d0ec8.css.map": "/AdsGram-Connect/static/css/main.3f4d0ec8.css.map",
+    "main.13294156.js.map": "/AdsGram-Connect/static/js/main.13294156.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f4d0ec8.css",
+    "static/js/main.13294156.js"
+  ]
+}
